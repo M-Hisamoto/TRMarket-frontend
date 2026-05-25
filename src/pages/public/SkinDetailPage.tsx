@@ -27,7 +27,7 @@ export default function SkinDetailPage() {
   })
 
   const whatsappUrl = skin
-    ? `https://wa.me/5511988236001?text=${encodeURIComponent(
+    ? `https://wa.me/5511940383087?text=${encodeURIComponent(
         `Olá! Tenho interesse na skin ${skin.arma} | ${skin.nome} (${skin.desgaste.replace(/_/g, ' ')}) por ${Number(skin.preco).toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' })}`
       )}`
     : '#'

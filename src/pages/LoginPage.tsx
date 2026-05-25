@@ -42,9 +42,6 @@ export default function LoginPage() {
             <span className="text-orange-500">TR</span>
             <span className="text-white"> Market Skins</span>
           </h1>
-          <p className="text-zinc-500 text-sm mt-2 uppercase tracking-widest">
-            Painel Administrativo
-          </p>
         </div>
 
         <form
